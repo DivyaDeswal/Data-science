@@ -34,3 +34,9 @@ PYTHON LOOPS.ipynb – Loops (for, while) and iterations.
 PYTHON OPERATORS.ipynb – Arithmetic, logical, and comparison operators.
 
 PYTHON SETS.ipynb – Working with sets in Python.
+
+📌 How to Use
+Clone the repository:
+###### git clone https://github.com/DivyaDeswal/Data-science.git
+Open notebooks in Jupyter or Google Colab.
+Run the code and explore insights!
