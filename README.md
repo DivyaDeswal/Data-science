@@ -1,7 +1,7 @@
-📊 Data Science Projects
+# 📊 Data Science Projects
 Welcome to my Data Science Projects repository! 🚀 This repo contains Jupyter notebooks exploring various datasets using Python, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
 
-📁 Datasets & Notebooks
+## 📁 Datasets & Notebooks
 ### DS_SALARIES DATASET.ipynb
 
 Analysis of data science salaries across different roles, experience levels, and locations.
