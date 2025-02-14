@@ -17,3 +17,20 @@ Insights into genre distribution, release years, and content trends.
 Data cleaning and analysis of shopping trends.
 
 Understanding customer behavior using pandas and matplotlib.
+
+## 🐍 Python Basics Notebooks
+PYTHON ALL BASICS.ipynb – Covers fundamental Python concepts.
+
+PYTHON ARRAY (use of numpy).ipynb – Working with arrays using numpy.
+
+PYTHON CLASSES.ipynb – Object-Oriented Programming in Python.
+
+PYTHON DICTIONARY.ipynb – Understanding Python dictionaries.
+
+PYTHON FUNCTIONS.ipynb – Writing and using functions in Python.
+
+PYTHON LOOPS.ipynb – Loops (for, while) and iterations.
+
+PYTHON OPERATORS.ipynb – Arithmetic, logical, and comparison operators.
+
+PYTHON SETS.ipynb – Working with sets in Python.
